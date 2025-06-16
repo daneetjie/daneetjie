@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/80dcfa30-36e9-4e11-b90a-e9f42d81c4a4.svg)](https://wakatime.com/@80dcfa30-36e9-4e11-b90a-e9f42d81c4a4)
 <!--
 **daneetjie/daneetjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
