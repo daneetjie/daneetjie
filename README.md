@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/80dcfa30-36e9-4e11-b90a-e9f42d81c4a4.svg)](https://wakatime.com/@80dcfa30-36e9-4e11-b90a-e9f42d81c4a4)
+## ⏱️ My WakaTime Stats
+<p align="center">
+  <a href="https://wakatime.com/@IanTerHaar">
+    <img src="https://wakatime.com/share/@Pfaffie/393081d6-9a95-4b47-b17a-bbc435e4c678.svg" alt="My WakaTime Stats"/>
+  </a>
+</p>
+
+<p align="middle">
+    <img src="https://wakatime.com/badge/user/80dcfa30-36e9-4e11-b90a-e9f42d81c4a4.svg" alt="WakaTime Badge"/>
+</p>
+
 <!--
 **daneetjie/daneetjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
