@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Danee Pfaff
 
 ## ⏱️ My WakaTime Stats
 <p align="center">
@@ -7,8 +7,12 @@
   </a>
 </p>
 
+---
+## 📈 Profile Stats
 <p align="middle">
-    <img src="https://wakatime.com/badge/user/80dcfa30-36e9-4e11-b90a-e9f42d81c4a4.svg" alt="WakaTime Badge"/>
+  <img src="https://wakatime.com/badge/user/80dcfa30-36e9-4e11-b90a-e9f42d81c4a4.svg" alt="WakaTime Badge"/>
+  <img src="https://img.shields.io/github/followers/daneetjie?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=DaneePfaff" alt="Profile Views"/>
 </p>
 
 <!--
